@@ -3,11 +3,6 @@
 <h1 align="center">Hi 👋, I'm Onwara pimsiripat</h1>
 <h3 align="center">Sofware Deverloper Internship Student from Thailand</h3>
 <p align="center">I am a senior student from Kasetsart University, Kamphaeng Saen. I am currently seeking jobs that utilize my abilities in back-end, DataBase, and software testing to gain experience and learn new skills. I hope to have the opportunity to intern at your company and receive full knowledge from your company.</p>
-<p align="center"> 
- <img src="[https://github.com/ONPRAE]&label=Profile%20views&color=0e75b6&style=flat" alt="Onwara PIMSIRIPAT" /> 
-<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
-<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
-</p>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
@@ -27,7 +22,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on **UA IT(JKH IT)**
+- 🔭 I’m currently Study on **KU IT**
 
 - 🌱 I’m currently learning **Devops**
 
