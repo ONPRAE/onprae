@@ -24,7 +24,7 @@
 
 - 🔭 I’m currently Study on **KU IT**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **REST API Development**
 
 - 👨‍💻 All of my projects are available at [onwara's workspace]
 
